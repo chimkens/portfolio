@@ -2,7 +2,7 @@
 Fullstack nano project 1
 
 
-This is a project for Udacity's Fullstack Nanodegree. 
+This is a project for Udacity's Fullstack Nanodegree. It displays a personal portfolio on a basic web page. 
 
 Instructions to Run:
 1) clone the github repo
